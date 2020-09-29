@@ -2,14 +2,6 @@
 
 This is a duplicated version of the no longer maintained **[strapi javascript sdk](https://github.com/strapi/strapi-sdk-javascript)**
 
-**Now you may be wondering...**
-
-Why duplicate a no longer maintained repository? And that's a question I asked myself, and due to this packages small size, and simple logic, it seemed faster to just duplicate this, throw it in a privde repo / npm package and iterate on it as we go.
-
-We wll be extending upon the current semver set when the project siezed active maintenance.
-
-If you end up using this package, please make sure to follow the same standards used in our **[Developer Guide](https://github.com/the-taproom/developer-guide/tree/main/git-github)** when contributing.
-
 ---
 
 Helpful Strapi Resources:
@@ -34,7 +26,7 @@ npm install @taproom/strapi-sdk-javascript
 
 ### New instance
 ```js
-import Strapi from '@taproom/strapi-sdk-javascript';
+import Strapi from '@autom8apps/strapi-sdk-javascript';
 
 const strapi = new Strapi('http://localhost:1337');
 ```
