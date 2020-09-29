@@ -1,7 +1,7 @@
 {
-  "name": "@thetaproom/strapi-sdk-javascript",
+  "name": "@autom8apps/strapi-sdk-javascript",
   "version": "0.5.1",
-  "description": "The Taproom flavored version of the no longer maintained Strapi SDK for JavaScript",
+  "description": "The Autom8 Apps flavored version of the no longer maintained Strapi SDK for JavaScript",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
@@ -80,8 +80,8 @@
     ]
   },
   "bugs": {
-    "url": "https://github.com/thetaproom/strapi-sdk-javascript/issues"
+    "url": "https://github.com/autom8-apps/strapi--javascript-sdk/issues"
   },
-  "homepage": "https://github.com/thetaproom/strapi-sdk-javascript#readme",
+  "homepage": "https://github.com/autom8-apps/strapi--javascript-sdk#readme",
   "author": "The talented Strapi.io dev team"
 }
