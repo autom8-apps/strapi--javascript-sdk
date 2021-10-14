@@ -12,7 +12,9 @@ Helpful Strapi Resources:
 
 <p align="center"><img src="https://cldup.com/7umchwdUBh.png" /></p>
 
-<h3 align="center">The official Strapi SDK for JavaScript, available for browsers or Node.js backends.</h3>
+<h3 align="center">The **unofficial Strapi** SDK for JavaScript, available for browsers or Node.js backends.</h3>
+
+<p><strong>USE WITH CAUTION:</strong> I essentially revamped the deprecated project because I didn't want to build my own SDK and I wanted something I could use for my various personal projects. I have no intention at the moment of supporting this package for the long term. Install at your own discretion.</p>
 
 ---
 
@@ -108,16 +110,11 @@ Custom axios request configuration. [See documentation](https://github.com/axios
 * [Changelog](https://github.com/strapi/strapi-sdk-javascript/blob/master/CHANGELOG.md)
 * [Medium story](https://medium.com/strapi/announcing-the-strapi-javascript-sdk-ac89f140a9d1)
 
-## Roadmap
-
-* GraphQL
-* Attach/Detach entry relationship
-* Real time with Socket.io
-
 ## Credits
 
 * [axios](https://github.com/axios/axios)
 * [typescript-starter](https://github.com/bitjson/typescript-starter)
+* [The talented Strapi team, thank you so much for building this!](https://strapi.io/)
 
 ## License
 

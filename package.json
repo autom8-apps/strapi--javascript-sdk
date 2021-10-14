@@ -1,6 +1,6 @@
 {
   "name": "@autom8apps/strapi-sdk-javascript",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "description": "The new flavored version of the no longer maintained Strapi SDK for JavaScript",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
