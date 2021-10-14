@@ -1,4 +1,4 @@
-### TAPROOM DESCRIPTION
+### DESCRIPTION
 
 This is a duplicated version of the no longer maintained **[strapi javascript sdk](https://github.com/strapi/strapi-sdk-javascript)**
 
@@ -19,7 +19,7 @@ Helpful Strapi Resources:
 ## Install
 
 ```sh
-npm install @taproom/strapi-sdk-javascript
+npm install @autom8apps/strapi-sdk-javascript
 ```
 
 ## Start now
