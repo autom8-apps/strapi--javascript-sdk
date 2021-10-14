@@ -2,17 +2,13 @@
 
 This is a duplicated version of the no longer maintained **[strapi javascript sdk](https://github.com/strapi/strapi-sdk-javascript)**
 
+**USE WITH CAUTION:** I revamped the no longer supported project because I didn't want to build my own SDK and I wanted something I could use for my various personal projects. I have no intention at the moment of supporting this package for the long term. Install at your own discretion.
+
 ---
 
 Helpful Strapi Resources:
 - [**API Endpoints**](https://strapi.io/documentation/3.0.0-beta.x/guides/api-endpoints.html#endpoints)
 - [**URL parameters**](https://strapi.io/documentation/3.0.0-beta.x/guides/parameters.html)
-
----
-
-<h3 align="center">The <strong>Unofficial Strapi SDK for JavaScript</strong>, available for browsers or Node.js backends.</h3>
-
-<p><strong>USE WITH CAUTION:</strong> I essentially revamped the deprecated project because I didn't want to build my own SDK and I wanted something I could use for my various personal projects. I have no intention at the moment of supporting this package for the long term. Install at your own discretion.</p>
 
 ---
 
