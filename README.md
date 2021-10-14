@@ -6,12 +6,6 @@ This is a duplicated version of the no longer maintained **[strapi javascript sd
 
 ---
 
-Helpful Strapi Resources:
-- [**API Endpoints**](https://strapi.io/documentation/3.0.0-beta.x/guides/api-endpoints.html#endpoints)
-- [**URL parameters**](https://strapi.io/documentation/3.0.0-beta.x/guides/parameters.html)
-
----
-
 ## Install
 
 ```sh
