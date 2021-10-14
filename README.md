@@ -10,9 +10,7 @@ Helpful Strapi Resources:
 
 ---
 
-<p align="center"><img src="https://cldup.com/7umchwdUBh.png" /></p>
-
-<h3 align="center">The **unofficial Strapi** SDK for JavaScript, available for browsers or Node.js backends.</h3>
+<h3 align="center">The <strong>Unofficial Strapi SDK for JavaScript</strong>, available for browsers or Node.js backends.</h3>
 
 <p><strong>USE WITH CAUTION:</strong> I essentially revamped the deprecated project because I didn't want to build my own SDK and I wanted something I could use for my various personal projects. I have no intention at the moment of supporting this package for the long term. Install at your own discretion.</p>
 
