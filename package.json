@@ -7,7 +7,7 @@
   "module": "build/module/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/the-taproom/strapi--javascript-sdk.git"
+    "url": "git+https://github.com/autom8-apps/strapi--javascript-sdk"
   },
   "license": "MIT",
   "keywords": [],
